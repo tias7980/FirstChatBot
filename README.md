@@ -28,4 +28,4 @@ published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
 
 # Credits
- • @Spechide For his [SQL Plugin](https://github.com/New-Dev3/ChatBot/tree/main/chatrobot/plugins/sql/users_sql.py) 
+ • @wbavishek For fixing errors and motivating me. 
