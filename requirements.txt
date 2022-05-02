@@ -1,0 +1,6 @@
+telethon
+cryptg
+heroku3
+sqlalchemy
+psycopg2
+
